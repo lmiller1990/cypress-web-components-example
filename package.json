@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@cypress/mount-utils": "^2.1.0",
-    "@lmiller1990/cypress-web-component-example": "^1.0.0",
+    "@lmiller1990/cypress-web-component-example": "^1.0.1",
     "find-up": "^6.3.0"
   }
 }
