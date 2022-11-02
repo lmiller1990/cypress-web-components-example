@@ -1,0 +1,26 @@
+{
+  "name": "@lmiller1990/cypress-web-component-example",
+  "version": "1.0.1",
+  "private": false,
+  "description": "",
+  "main": "mount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "files": [
+    "./mount.js"
+  ],
+  "module": "mount.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0",
+    "vite": "^3.2.2"
+  },
+  "dependencies": {
+    "@cypress/mount-utils": "^2.1.0",
+    "@lmiller1990/cypress-web-component-example": "^1.0.0",
+    "find-up": "^6.3.0"
+  }
+}
